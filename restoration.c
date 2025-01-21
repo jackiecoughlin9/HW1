@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main () {
-    printf("testing this works\n");
+    printf("testing this works 2\n");
     return 0;
 }
