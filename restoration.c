@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main () {
-    printf("Hello, World!\n");
+    printf("testing this works\n");
     return 0;
 }
